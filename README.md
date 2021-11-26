@@ -1,1 +1,1 @@
-# CodeBerrySchool-desktop-editor-frontend-3.9.-solution-hu-hu
+This is the sample solution for the Princess Project of the "Learn to Use a Desktop Editor for Frontend Development" module.
